@@ -1,5 +1,7 @@
 # Cupid's Arrow
 
+[Link to YouTube video](https://youtu.be/Wc2G6FCveSk)
+
 ## Authors
 - Reese Jacobs Neal
 - Misho Gabashvili
